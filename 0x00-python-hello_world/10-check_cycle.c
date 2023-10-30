@@ -3,7 +3,8 @@
 /**
  * check_cycle - checks if a singly linked list has a cycle in it.
  * @list: linked list
- * Return:  1 (success), 0 (failure)
+ *
+ * Return:1 (success),0 (failure)
  */
 
 int check_cycle(listint_t *list)
